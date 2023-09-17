@@ -1,4 +1,2 @@
-# ReactSample
-A Sample React Application
+# Assignment 1
 
-Site URL: https://resonant-sfogliatella-4458ca.netlify.app/
